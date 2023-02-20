@@ -1,4 +1,3 @@
-# README
 
 # Hi there, I am Punit Jain. #
 
