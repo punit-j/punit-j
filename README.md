@@ -6,11 +6,11 @@
 	</a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
+<picture> <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"></picture>
 <h3 align="left">With extensive experience in both Blockchain and Backend development, I've been at the forefront of creating innovative solutions that challenge traditional finance. I believe the future of finance is decentralized, and I'm committed to building strong, secure, and transparent systems to shape that future.</h3>
 &emsp;
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px align="center"> Key Focus Areas :-
+##<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> Key Focus Areas:-
 
 - **Trusted and Trustless Bridges**: I have extensive experience in designing bridges that enable smooth communication and interoperability across different blockchains, utilizing both trusted and trustless mechanisms.
 
