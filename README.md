@@ -1,6 +1,6 @@
 
 ![Header](./header-img.png)
-<img align='right' src="./ethereum.gif" width="190">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
 <h3 align="left">With extensive experience in both Blockchain and Backend development, I've been at the forefront of creating innovative solutions that challenge traditional finance. I believe the future of finance is decentralized, and I'm committed to building strong, secure, and transparent systems to shape that future.</h3>
 &emsp;
 
