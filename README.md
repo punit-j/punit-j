@@ -1,19 +1,24 @@
 
 ![Header](./header-img.png)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
-<h3 align="left">With several years of experience in Blockchian and Backend, I have been at the forefront of developing innovative solutions that are disrupting the traditional financial system. I believe that the future of finance lies in decentralization, and I am committed to working towards this vision by creating robust, secure, and transparent systems.</h3>
+<img align='right' src="https://media.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.gif" width="190">
+<h3 align="left">With extensive experience in both Blockchain and Backend development, I've been at the forefront of creating innovative solutions that challenge traditional finance. I believe the future of finance is decentralized, and I'm committed to building strong, secure, and transparent systems to shape that future.</h3>
 &emsp;
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> Key Focus Areas :-
 
 - **Trusted and Trustless Bridges**: I have extensive experience in designing bridges that enable smooth communication and interoperability across different blockchains, utilizing both trusted and trustless mechanisms.
 
-- **Relayers**: My expertise extends to building efficient and secure relayers that facilitate seamless communication between various blockchain networks.
+- **Relayers**: My expertise extends to building efficient and secure relayers that facilitate seamless communication with various blockchain networks.
 
 - **Automated Market Makers (AMMs)**: I'm skilled in developing AMMs that empower users to trade assets in a decentralized, automated manner, enhancing liquidity and accessibility.
 
 - **Inter-Blockchain Communication**: I'm well-versed in creating communication hubs similar to CosmWasm, fostering collaboration and interaction among diverse blockchains.
 
+- **DeFi (Decentralized Finance)**: I also have a strong focus on DeFi, exploring innovative ways to enhance and contribute to the rapidly evolving DeFi landscape.
+  
+- **Order Book Management**: I possess knowledge in building and managing order books, ensuring efficient and reliable trading experiences.
+
+- **Perpetual Contracts**: My experience includes working with perpetual contracts, contributing to the development of derivative trading platforms.
 
 ## 🛠️ My Skills
 -------------------
@@ -24,7 +29,6 @@
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 
